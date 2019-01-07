@@ -34,14 +34,13 @@ Rememer what we said during the conversation
 
 [Persist data](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-persist-user-inputs?view=azure-bot-service-4.0&tabs=csharp)
 
-## LUIS
+## 6. Add Welcome Message
+
+Welcome a users and also guide how to start conversation with examples
+
+## 7. LUIS
 
 [Ref](http://aihelpwebsite.com/Blog/EntryId/1033/Using-LUIS-Language-Understanding-Intelligent-Service-MS-Bot-Framework-V4-Preview-Edition)
 
-
-
-## (Optional) . Add Welcome Message
-
-Welcome a users and also guide how to start conversation with examples
 
 ---
