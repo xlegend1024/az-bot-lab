@@ -6,6 +6,8 @@ Experience Microsoft Chat Bot
 
 - Azure Subscription 
 - Visual Studio 2017 15.6.7 (Any Edition)
+- Bot Framework Emulator
+- [Bot Builder V4 SDK Template for Visual Studio](https://marketplace.visualstudio.com/items?itemName=BotBuilder.botbuilderv4)
 
 ## 0. Create Development Environment
 
@@ -25,7 +27,6 @@ Rememer what we said during the conversation
 
 [Prompt Users for input](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-primitive-prompts?view=azure-bot-service-4.0&tabs=csharp)
 
-
 ## 4. Implement sequential conversation flow
 
 [Implement sequential conversation flow](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-dialog-manage-conversation-flow?view=azure-bot-service-4.0&tabs=csharp)
@@ -42,5 +43,8 @@ Welcome a users and also guide how to start conversation with examples
 
 [Ref](http://aihelpwebsite.com/Blog/EntryId/1033/Using-LUIS-Language-Understanding-Intelligent-Service-MS-Bot-Framework-V4-Preview-Edition)
 
+## Middleware
+
+## Enterprise Bot Template
 
 ---
