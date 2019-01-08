@@ -1,17 +1,25 @@
-# az-bot-lab
+# Microsoft Azure Bot Service Hands-on Lab
 
-Experience Microsoft Chat Bot
+Experience Microsoft Bot Services by building a sample bot
 
-## Requirements
+## Requirements for Lab
 
-- Azure Subscription
+- Azure Subscription (Subscription Contributor or Resource Group Owner)
 - Visual Studio 2017 15.6.7 (Any Edition)
 - [Bot Framework Emulator & ngrok](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-debug-emulator?view=azure-bot-service-4.0)
 - [Bot Builder V4 SDK Template for Visual Studio](https://marketplace.visualstudio.com/items?itemName=BotBuilder.botbuilderv4)
 
 ## 0. Create Development Environment
 
-Create a vm and download SDKs for lab
+Create a VM:
+
+* Data Science Virtual Machine Windows 2016
+* Standard DS3 v2 (4 vcpus, 14 GB memory)
+* West US 2 ( Or region where close to you )
+
+Login to the DSVM you created and download followings:
+
+* [Bot Framework Emulator & ngrok](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-debug-emulator?view=azure-bot-service-4.0)
 
 ## [1. Create and Deploy a Bot 101](./01.CreateAndDeployBot.md)
 
@@ -29,13 +37,12 @@ Rememer what we said during the conversation
 
 ## [6. Add Welcome Message](./06.WelcomeMessage.md)
 
-Welcome a users and also guide how to start conversation with examples
 
 ## [7. LUIS](./07.IntegrateLUIS.md)
 
 ## [Middleware](./08.Middleware.md)
 
-## [Enterprise Bot Template](./09.BotTemplate.md)
+## [Enterprise Bot Template](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-enterprise-template-overview?view=azure-bot-service-4.0)
 
 ---
 
