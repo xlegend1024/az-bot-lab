@@ -25,20 +25,33 @@ Login to the DSVM you created and download followings:
 
 Create a project to experience how to build and deploy bot
 
+In this lab, you'll create a bot that echo your message
+
 ## [2. Save user and conversation data](./02.ManageState.md)
 
-Rememer what we said during the conversation
+In this lab, you'll add state management feature to your bot so that your bot can know your name
 
 ## [3. Prompt users for input](./03.PromptUserInput.md)
 
+In this lab, you'll add more dialogs to ask a few questions
+
 ## [4. Implement sequential conversation flow](./04.SequentialFlow.md)
 
-## [5. Write directly to storage](./05.PersisData.md)
+In this lab, you'll add more dialogs to ask a set of questions
+
+## [5. Write directly to storage](./05.PersistData.md)
+
+In this lab, you'll create a CosmosDB and save some data when conversation is done
 
 ## [6. Add Welcome Message](./06.WelcomeMessage.md)
 
+In this lab, you'll use different Sctivity type to welcome a user  
 
 ## [7. LUIS](./07.IntegrateLUIS.md)
+
+In this lab, you'll add more intelligent to your bot using LUIS
+
+## [(Optional) 10. Add Media To Message](./10.AddMediatoMessage.md)
 
 ## [Middleware](./08.Middleware.md)
 
