@@ -33,11 +33,11 @@ In this lab, you'll add state management feature to your bot so that your bot ca
 
 ## [3. Prompt users for input](./03.PromptUserInput.md)
 
-In this lab, you'll add more dialogs to ask a few questions
+In this lab, you'll add dialogs to ask few questions in order
 
 ## [4. Implement sequential conversation flow](./04.SequentialFlow.md)
 
-In this lab, you'll add more dialogs to ask a set of questions
+In this lab, you'll add dialog set which is a logical group of dialogs to ask a set of questions
 
 ## [5. Write directly to storage](./05.PersistData.md)
 
@@ -50,6 +50,10 @@ In this lab, you'll use different Sctivity type to welcome a user
 ## [7. LUIS](./07.IntegrateLUIS.md)
 
 In this lab, you'll add more intelligent to your bot using LUIS
+
+## 8. Publish Bot
+
+In this lab, you'll publish your bot via Skype Channel
 
 ## [(Optional) 10. Add Media To Message](./10.AddMediatoMessage.md)
 
